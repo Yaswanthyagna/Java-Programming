@@ -14,7 +14,4 @@ public class Experiment_7
 			System.out.print(ar1[i]+ar2[i]+" ");
 		        count++;
 		    }
-		}
-		System.out.println("doubles = "+count);
-	}
-}
+		}System.out.println("doubles = "+count);}}
