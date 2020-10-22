@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;//
 public class Experiment11{
 	public static void main(String[] args) {
 		Rectangle rc = new Rectangle();
