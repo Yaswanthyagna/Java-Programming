@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;//
 class Employee{
     Scanner sc=new Scanner(System.in);
     String Emp_name,Mail_id,Address;
